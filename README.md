@@ -16,4 +16,3 @@ Este é um projeto simples em Python que exibe os horários das linhas de ônibu
 - Exibe o nome de cada linha e seus respectivos horários no terminal
 - Permite navegar pelos dados de forma simples
 
-## 🗂 Estrutura do projeto
