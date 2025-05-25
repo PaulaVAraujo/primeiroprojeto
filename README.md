@@ -3,7 +3,7 @@ Primeiro repositório do meu projeto.
 
 # 🚌 Horários de Ônibus (Projeto em Python)
 
-Este é um projeto simples em Python que exibe os horários das linhas de ônibus, lendo os dados a partir de um arquivo JSON.
+Este é um projeto simples em Python que exibe os horários das linhas de ônibus da minha cidade, lendo os dados a partir de um arquivo JSON.
 
 ## 🧰 Tecnologias usadas
 
